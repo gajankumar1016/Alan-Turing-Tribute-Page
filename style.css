@@ -1,0 +1,47 @@
+.main-title{
+	margin: auto;
+  padding: 10px;
+	font-size: 100px;
+  font-family: Lobster, Monospace;
+}
+.larger-image{
+	display: block;
+	height: 300px;
+	width: 400px;
+	margin: auto;
+	border-radius: 20%;
+	
+}
+
+.smaller-image{
+	display: block;
+	margin: auto;
+	padding: 20px;
+	width: 175px;
+	border-radius: 75%;
+	
+}
+
+.green-border{
+	border-color: green;
+	border-width: 20px;
+	border-style: dotted;
+}
+
+.blue-border{
+  border-color: #4477FF;
+  border-width: 15px;
+  border-style: dotted;
+}
+
+.timeline{
+	background-color: lightgrey;
+	border: 20px solid black;
+	padding: 50px 50px 50px 50px;
+	margin: 70px 200px 30px 200px;
+}
+
+#credits{
+	font-size: 20px;
+	
+}
